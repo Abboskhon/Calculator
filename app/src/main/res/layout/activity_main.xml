@@ -198,6 +198,7 @@
                 android:gravity="center"
                 android:onClick="buOpEvent"
                 android:text="-"
+                android:textStyle="bold"
                 android:textSize="18sp"
                 app:backgroundTint="@android:color/holo_orange_dark" />
         </TableRow>
